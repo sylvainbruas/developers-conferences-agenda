@@ -975,6 +975,10 @@
     "latitude": 50.1106444,
     "longitude": 8.6820917
   },
+  "Freiburg (Germany)": {
+    "latitude": 47.9960901,
+    "longitude": 7.8494005
+  },
   "Fresno, CA (USA)": {
     "latitude": 36.7377981,
     "longitude": -119.7871247
@@ -2258,6 +2262,10 @@
   "Perros-Guirec (France)": {
     "latitude": 48.8151133,
     "longitude": -3.4394662
+  },
+  "Perth (Australia)": {
+    "latitude": -31.9558967,
+    "longitude": 115.8605784
   },
   "Pescara (Italy)": {
     "latitude": 42.3102619,
