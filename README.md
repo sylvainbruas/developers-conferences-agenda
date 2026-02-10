@@ -740,6 +740,7 @@ All the data (past and coming) are available publicly in JSON:
 * 27-29: [App.js Conf](https://appjs.co) - Krakow (Poland)
 * 27-29: [MakeIT 2026 & JCON Slovenia 2026](https://slovenia.jcon.one/) - Portorož (Slovenia) <a href="https://sessionize.com/makeit-2026-jcon-slovenia/"><img alt="CFP JCON Slovenia 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2026&color=red"></a>
 * 27-29: [Devopsdays Sibiu](https://devopsdays.org/events/2026-sibiu) - Sibiu (Romania)
+* 27-29: [Percona Live](https://perconalive.com/2026-usa/) - Mountain View, CA (USA) <a href="https://sessionize.com/percona-live26"><img alt="CFP Percona Live" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-February-2026&color=green"></a> <a href="https://perconalive.com/2026-usa/sponsoring/"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 27-30: [PyCon Italia 2026](https://2026.pycon.it) - Bologna (Italy)
 * 28: [AI Power Agents 2026](https://aipoweragentsconf.com) - Herzliya (Israel) <a href="https://sessionize.com/ai-power-agents-2026/"><img alt="CFP AI Power Agents 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2026&color=green"></a>
 * 28: [DevCon 27 : I.A. & Vibe Coding](https://www.programmez.com) - Paris (France) <a href="https://forms.gle/27JdJx38nTNnJYT16"><img alt="CFP DevCon 27 : I.A. & Vibe Coding" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-April-2026&color=green"></a>
@@ -953,6 +954,7 @@ All the data (past and coming) are available publicly in JSON:
 * 8-9: [Beer City Code 2026](https://beercitycode.com) - Grand Rapids, MI (USA) <a href="https://sessionize.com/beer-city-code-2026"><img alt="CFP Beer City Code 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-March-2026&color=green"></a>
 * 8-11: [DefCon Training](https://training.defcon.org/pages/2026-las-vegas-call-for-trainers) - Las Vegas, NV (USA)
 * 10-15: [JuliaCon 2026](https://juliacon.org/2026) - Rhineland Palatinate (Germany)
+* 11: [Open Source Summit Korea](https://events.linuxfoundation.org/open-source-summit-korea/) - Seoul (South Korea)
 * 12-13: [Render (RenderATL) 2026](https://www.renderatl.com) - Atlanta, GA (USA) <a href="https://sessionize.com/renderatl-2026/"><img alt="CFP Render (RenderATL) 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-February-2026&color=green"></a>
 * 12-15: [Hands-On Testing 2026](https://handsontesting.com/) - Online <a href="https://sessionize.com/hands-on-testing-2026"><img alt="CFP Hands-On Testing 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-July-2026&color=green"></a>
 * 14-15: [Carolina Code Conference 2026](https://carolina.codes) - Greenville, SC (USA) <a href="https://sessionize.com/carolina-code-conference-2026"><img alt="CFP Carolina Code Conference 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2026&color=green"></a>
@@ -1022,6 +1024,7 @@ All the data (past and coming) are available publicly in JSON:
 * 19: [WhatTheStack](https://wts.sh) - Skopje (Macedonia) <a href="https://wts.sh/login"><img alt="CFP WhatTheStack" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-March-2026&color=green"></a>
 * 20-21: [AMTSO Cyber Research Conference](https://www.amtso.org/special-events/amtso-cyber-research-conference-2026) - Brussels (Belgium) <a href="https://sessionize.com/amtso-cyber-research-conference-2026"><img alt="CFP AMTSO Cyber Research Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2026&color=green"></a>
 * 21: [CityJS Athens](https://greece.cityjsconf.org) - Athens (Greece)
+* 21-22: [Targeting Quality 2026](https://targetingquality.ca/) - Cambridge, ON (Canada) <a href="https://www.papercall.io/tq2026"><img alt="CFP Targeting Quality 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-April-2026&color=green"></a>
 * 21-24: [NDC TechTown](https://ndctechtown.com/) - Kongsberg (Norway)
 * 21-25: [Explore DDD 2026](http://exploreddd.com) - Denver, CO (USA) <a href="https://sessionize.com/explore-ddd-2026"><img alt="CFP Explore DDD 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-March-2026&color=green"></a>
 * 22: [Civo Navigate London 2026](https://www.civo.com/navigate/london/2025) - London (UK) <a href="https://sessionize.com/civo-navigate-london-2026"><img alt="CFP Civo Navigate London" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2026&color=red"></a>
