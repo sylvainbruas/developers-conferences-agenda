@@ -74,10 +74,10 @@ event_id,attendees
 2026-10-30-Cloud Nord 2026,attendees:350
 2026-12-09-DevOps REX,attendees:700
 2026-10-12-Dev With AI,attendees:400
-2026-12-10-KCD Provence,600
+2026-12-10-KCD Provence,attendees:600
 2026-03-24-La Duck Conf,attendees:500
 2026-11-13-DevOpsDays Barcelona,attendees:200
-2026-11-19-DevFest Toulouse 2026,1200
+2026-11-19-DevFest Toulouse 2026,attendees:1200
 2026-10-26-Cloud Native Days Norway,attendees:500
 2026-05-12-AI SRE Summit 2026,attendees:2000
 2026-11-19-KCD Porto 2026 | Collab with DevOps Days Portugal,attendees:500
@@ -95,27 +95,27 @@ event_id,attendees
 2026-10-26-International PHP Conference Munich 2026,attendees:500
 2026-09-17-dotAI,attendees:999
 2026-09-18-dotJS,attendees:1000
-2026-12-04-DevFest Dijon 2026,attendees:500
+2026-12-04-DevFest Dijon 2026,attendees:600
 2026-09-18-WordCamp Bretagne,attendees:600
 2026-10-28-GitHub Universe 2026,attendees:3400
 2026-09-29-KCD Sofia 2026,attendees:2000
 2026-06-11-Cloud Native & Open Source AI Conference,attendees:120
-2026-12-04-DevFest Lyon 2026,400
+2026-12-04-DevFest Lyon 2026,attendees:400
 2026-08-11-GopherCon UK,attendees:350
-2026-04-16-MiXiT 2026,750
+2026-04-16-MiXiT 2026,attendees:750
 2026-10-28-Mozilla Festival 2026,attendees:2500
 2026-10-06-FrontKon 2026,attendees:900
 2026-11-03-Humanoid Robots Summit North America 2026,attendees:500
 2026-09-09-European Humanoid Robots Summit 2026,attendees:1000
 2027-04-07-Devoxx France 2027,attendees:4500
 2026-10-22-Cloud Native Days Poland 2026,200
-2026-11-27-DevFest Belgium,150
+2026-11-27-DevFest Belgium,attendees:150
 2026-08-27-SoCraTes 2026,attendees:250
 2026-06-25-Agile Tour Toulouse 2026,attendees:350
 2026-05-19-Green Code Challenge 2026,attendees:120
 2026-06-09-France API 2026,attendees:600
 2026-07-22-DevRelCon New York 2026,attendees:300
-2026-10-29-BDX I/O 2026,1000
+2026-10-29-BDX I/O 2026,attendees:1000
 2026-09-09-EuroBSDCon,attendees:300
 2026-11-19-OVHcloud Summit,attendees:1500
 2026-10-10-Devfest Milano 2026,attendees:300
@@ -124,13 +124,13 @@ event_id,attendees
 2026-06-12-ETHGlobal New York Hackathon,attendees:600
 2026-07-24-ETHGlobal Lisbon Hackathon,attendees:600
 2026-06-08-ETHConf,attendees:5000
-2026-11-13-Devopsdays Barcelona,220
+2026-11-13-Devopsdays Barcelona,attendees:220
 2026-10-29-Pycon FR,attendees:500
 2026-11-13-Devopsdays Barcelona,200
 2026-10-26-Agile Tour Montpellier,attendees:300
 2026-09-14-Code Europe,attendees:1800
 2027-06-03-Cloud Native Days France 2027,attendees:2500
-2026-11-13-Devopsdays Barcelona,220
+2026-11-13-Devopsdays Barcelona,attendees:220
 2027-04-27-Great International Developer Summit (GIDS),attendees:5500
 2026-10-23-DevFest Troy, NY 2026,attendees:400
 2026-07-02-Are You Measuring the Right Things? SLOs, Toil, and the Metrics That Matter,attendees:100
@@ -138,3 +138,4 @@ event_id,attendees
 2026-07-22-bitcoin++ consensus edition,attendees:200
 2026-10-01-bitcoin++ payments edition,attendees:300
 2026-11-05-bitcoin++ privacy edition,attendees:300
+2027-01-14-SnowCamp 2027,attendees:700
