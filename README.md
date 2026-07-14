@@ -1782,7 +1782,6 @@ All the data (past and coming) are available publicly in JSON:
 * 26-29: [IBM TechXchange](https://www.ibm.com/community/ibm-techxchange-conference/) - Atlanta, GA (USA)
 * 26-29: [The ACS/IEEE 23rd International Conference on Computer Systems and Applications](https://aiccsa.net/AICCSA2026) - Dubai (United Arab Emirates) <a href="https://aiccsa.net/AICCSA2026/calls.php"><img alt="CFP The ACS/IEEE 23rd International Conference on Computer Systems and Applications" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-May-2026&color=red"></a>
 * 26-30: [International PHP Conference Munich 2026](https://phpconference.com/munich/) - Munich (Germany)
-* 26-30: [SAINTCON 2026](https://www.saintcon.org) - Provo, UT (USA) <a href="https://sessionize.com/saintcon2026"><img alt="CFP SAINTCON 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-June-2026&color=red"></a>
 * 26-30: [webinale Munich 2026](https://webinale.com/munich/) - Munich (Germany)
 * 26-30: [International JavaScript Conference Munich 2026](https://javascript-conference.com/muenchen/) - Munich (Germany)
 * 27-28: [OWASP LASCON 2026 - Training](http://lascon.org) - Austin, TX (USA) <a href="https://sessionize.com/owasp-lascon-2026-training"><img alt="CFP OWASP LASCON 2026 - Training" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-June-2026&color=red"></a>
@@ -1887,7 +1886,6 @@ All the data (past and coming) are available publicly in JSON:
 * 12-13: [Tokyo Test Fest](https://tokyotestfest.com/en/) - Tokyo (Japan) <a href="https://tokyotestfest.com/en/cfp_2026/"><img alt="CFP Tokyo Test Fest" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-April-2026&color=red"></a>
 * 12-13: [Update Conference Prague 2026](https://prague.updateconf.net) - Prague (Czechia) <a href="https://sessionize.com/update-conference-prague-2026"><img alt="CFP Update Conference Prague 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2026&color=red"></a>
 * 12-13: [SpiceWorld 2026](https://www.spiceworks.com/spiceworld/) - Austin, TX (USA) <a href="https://sessionize.com/spiceworld-2026"><img alt="CFP SpiceWorld 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-May-2026&color=red"></a>
-* 12-13: [Update Conference Prague](https://prague.updateconference.net/en) - Prague (Czechia)
 * 12-14: [CMS Conf 2026](https://cmsconf.com) - Gdynia (Poland) <a href="https://cmsconf.com/call-for-papers/"><img alt="CFP CMS Conf 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2026&color=red"></a>
 * 13: [Akademy 2026](https://akademy.kde.org/) - Graz (Austria)
 * 13: [pgDay México 2026](https://2026.pgday.com.mx/) - Mexico City (Mexico) <a href="https://sessionize.com/pgday-mexico-2026"><img alt="CFP pgDay México 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-August-2026&color=green"></a>

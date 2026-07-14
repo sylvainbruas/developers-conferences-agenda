@@ -159,7 +159,7 @@ const EditEventForm = ({ isOpen, onClose }) => {
     const month = String(startDate.getMonth() + 1).padStart(2, '0');
     const day = String(startDate.getDate()).padStart(2, '0');
     const eventId = `${year}-${month}-${day}-${formData.name}`;
-    return `${eventId},${formData.attendees}`;
+    return `${eventId},attendees:${formData.attendees}`;
   };
 
  const generateIssueBody = () => {

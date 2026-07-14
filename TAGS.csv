@@ -1645,7 +1645,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-06-01-NDC Copenhagen,tech:python,topic:data,topic:open-source,language:english
 2026-09-14-NDC Oslo,tech:python,topic:data,topic:open-source,language:english
 2026-09-21-NDC TechTown,tech:python,topic:data,topic:open-source,language:english
-2026-12-17-AI for Developers,topic:agents,topic:ai,topic:artificial-intelligence,topic:deep-learning,topic:developer-tools,topic:genai,topic:large-language-models,topic:llm,topic:machine-learning,topic:ml,topic:prompt-engineering,topic:software-architecture,topic:workshop
+2026-12-17-AI for Developers,topic:agents,topic:ai,topic:deep-learning,topic:developer-tools,topic:genai,topic:llm,topic:machine-learning,topic:prompt-engineering,topic:software-architecture
 2026-01-23-AI DBA: Self-Driving Databases,tech:database,topic:ai,topic:automation,language:english
 2026-02-21-Global Security Tour 2026 | Microsoft Keynote + Women in Tech + Hackathon,tech:security,topic:cybersecurity,topic:women-in-tech,language:english
 2026-02-26-AI Coding Summit,tech:programming,topic:ai,topic:development,language:english
@@ -2852,7 +2852,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-06-23-MWCP 2026,tech:cloud-native,topic:devops,topic:infrastructure,language:french
 2026-10-02-Bizz Summit ES 2026,tech:business,topic:entrepreneurship,topic:technology,language:spanish
 2026-10-28-Michigan Technology Conference 2026,tech:software-development,topic:technology,topic:conference,language:english
-2026-11-12-Update Conference Prague,topic:developer-community,topic:developer-conference,language:english,topic:dotnet,topic:conference,topic:ai,tech:software-development,tech:tech-conference,tech:software-engineering
 2026-04-18-Global Azure 2026 - Ahmedabad,tech:cloud,topic:azure,topic:devops,language:english
 2026-06-25-SecureChainCon 2026,tech:cybersecurity,topic:blockchain,topic:privacy,language:english
 2026-06-27-BSides Maribor 2026,tech:cybersecurity,topic:infosec,topic:conference,language:slovenian
@@ -3152,7 +3151,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-07-11-ACM Irving Tech Talk July 2026 (In-Person),tech:software,topic:programming,language:english
 2026-08-04-KCD Kubernetes Community Days Melbourne 2026,tech:cloud,tech:kubernetes,topic:devops,topic:open-source,language:english
 2026-11-14-Black Alpaca 2026,tech:cloud,tech:containers,topic:devops,topic:open-source,language:english
-2026-12-02-Cloud Native AI Summit Europe,topic:cloud-native,topic:agent-based-ai,topic:artificial-intelligence,topic:ai,tech:infrastructure,topic:platform-engineering,topic:kubernetes,topic:architecture,topic:containers,topic:api
+2026-12-02-Cloud Native AI Summit Europe,topic:cloud-native,topic:agent-based-ai,topic:artificial-intelligence,tech:infrastructure,topic:platform-engineering,topic:kubernetes,topic:architecture,topic:containers
 2026-10-13-BazelCon,tech:bazel
 2026-06-13-Build With AI Bogotá 2026,tech:cloud,topic:ai,topic:developer,language:english
 2026-09-08-Devopsdays Santiago,tech:devops,topic:infrastructure,topic:developer,language:spanish
