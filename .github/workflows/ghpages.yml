@@ -50,7 +50,7 @@ jobs:
           mv ../page/src/misc/og-preview.png ../page/build/
       - name: Deploy to GitHub Pages
         if: github.ref_name == 'main'
-        uses: crazy-max/ghaction-github-pages@59173cb633d9a3514f5f4552a6a3e62c6710355c # v2.7.0
+        uses: crazy-max/ghaction-github-pages@v3 # v3
         with:
           target_branch: gh-pages
           build_dir: page/build/
