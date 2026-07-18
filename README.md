@@ -1722,6 +1722,7 @@ All the data (past and coming) are available publicly in JSON:
 * 16-17: [MorcillaConf 2026](https://morcillaconf.es/) - Burgos (Spain) <a href="https://sessionize.com/morcillaconf-2026"><img alt="CFP MorcillaConf 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2026&color=red"></a>
 * 16-18: [Joomla! World Conference 2026](https://conference.joomla.org) - Berlin (Germany)
 * 16-18: [OmniOpenCon 2026](https://omniopencon.org/) - Bucharest (Romania) <a href="https://sessionize.com/omniopencon-2026"><img alt="CFP OmniOpenCon 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2026&color=green"></a>
+* 17: [Devopsdays Juiz de Fora](https://devopsdays.org/events/2026-juiz-de-fora) - Juiz De Fora, MG (Brazil)
 * 17: [AWS Community Day Spain 2026](https://2026.awscommunity.es/) - Santiago de Compostela (Spain) <a href="https://sessionize.com/aws-community-day-spain-2026"><img alt="CFP AWS Community Day Spain 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2026&color=green"></a>
 * 17: [BSidesNYC 0x06](https://bsidesnyc.org) - New York, NY (USA) <a href="https://sessionize.com/bsidesnyc-0x06"><img alt="CFP BSidesNYC 0x06" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-July-2026&color=green"></a>
 * 17: [PyCon Ireland 2026](https://2026.pycon.ie) - Dublin (Ireland) <a href="https://sessionize.com/pycon-ireland-2026"><img alt="CFP PyCon Ireland 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2026&color=green"></a>
