@@ -3320,3 +3320,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-10-05-VibeKode Utrecht 2026,topic:coding,topic:software-engineering,topic:development
 2026-11-28-FOSS for All Conference 2026,tech:python,topic:data,topic:open-source,language:english
 2026-12-10-DevCon 28 : sécurité | post-quantique | hacking édition 2027,tech:cryptography,topic:security,topic:quantum-computing,language:french
+2026-08-22-Containers Day Dominican Republic,topic:containers,topic:ai,topic:kubernetes
+2026-09-26-IndiaFOSS 2026,topic:open-source,topic:open-data,topic:devops,topic:research
+2026-12-05-OpenSource Con India 2026,topic:open-source,topic:cloud-native,topic:linux
+2026-11-14-UbuCon India 2026,tech:ubuntu,topic:open-source,topic:linux,topic:devops
