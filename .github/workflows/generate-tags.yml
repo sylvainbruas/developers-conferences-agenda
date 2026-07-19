@@ -10,12 +10,14 @@ permissions:
   contents: read
 
 jobs:
-  update:
+  generate:
     if: github.repository == 'scraly/developers-conferences-agenda'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6
+        with:
+          persist-credentials: false
       - name: Setup Node
         uses: actions/setup-node@a0853c24544627f65ddf259abe73b1d18a591444 # v5
         with:
@@ -40,7 +42,7 @@ jobs:
         run: npm test -- --run
       - name: Create Pull Request
         id: cpr
-        uses: peter-evans/create-pull-request@c5a7806660adbe173f04e3e038b0ccdcd758773c # v6.1.0
+        uses: peter-evans/create-pull-request@v8 # v8
         with:
           token: ${{ secrets.PAT }}
           commit-message: generate new tags
