@@ -1677,6 +1677,7 @@ All the data (past and coming) are available publicly in JSON:
 * 12-13: [PyCon Greece 2026](https://2026.pycon.gr) - Athens (Greece)
 * 12-14: [SwiftLeeds](https://swiftleeds.co.uk) - Leeds (UK)
 * 12-14: [dataMinds Connect 2026](http://datamindsconnect.be) - Mechelen (Belgium) <a href="https://sessionize.com/dataminds-connect-2026"><img alt="CFP dataMinds Connect 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-May-2026&color=red"></a>
+* 12-14: [AIE NYC 2026](https://ai.engineer/nyc) - New York, NY (USA) <a href="https://sessionize.com/aienyc2026/"><img alt="CFP AIE NYC 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-September-2026&color=green"></a>
 * 12-14: [M365 Summit Mainz](https://events.m365-summits.de/M365SummitMainzOktober#/) - Online <a href="https://sessionize.com/m365-summit-mainz-12-14-oktober-2026/"><img alt="CFP M365 Summit Mainz 12.-14. Oktober 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-August-2026&color=green"></a>
 * 12-15: [dev2next](https://www.dev2next.com) - Lone Tree, CO (USA)
 * 12-15: [SmashingConf Antwerp](https://smashingconf.com/antwerp-2026) - Antwerp (Belgium) <a href="https://smashingconf.com/antwerp-2026/partners"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
