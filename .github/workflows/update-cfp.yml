@@ -26,7 +26,9 @@ jobs:
         with:
           node-version: 24
           cache: npm
-          cache-dependency-path: '**/package-lock.json'
+          cache-dependency-path: |
+            page/package-lock.json
+            tools/package-lock.json
       - working-directory: page
         run: npm ci
       - name: Fix CFP color
